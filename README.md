@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pulkitagar25
-- 👀 I’m interested in Data
+- 👀 Budding Data Insights Explorer
 - ⚡ I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to reach me agarwal.pul25@gmail.com
