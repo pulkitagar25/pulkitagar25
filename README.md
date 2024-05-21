@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I am a "Data Analyst" Fresher.<br>⭐ Passionate About "Data science and analysis".<br>🔭 I’m currently working on Portfolio Projects.<br>🌱 I’m currently learning MLops.<br>💬 Ask me about SQL, PowerBi, Dashboard, and Analysis.<br>📫 How to reach me: +919462795325 or agar.pulkit25@gmail.com<br>👨‍💻 All of my projects are available in my portfolio.<br>📄 Know about my experience: My Resume<br><br>
+😎 I am a "Data Analyst" Fresher.<br>⭐ Passionate About "Data science and analysis".<br>🔭 I’m currently working on Portfolio Projects.<br>🌱 I’m currently learning MLops.<br>💬 Ask me about SQL, PowerBi, Dashboard, and Analysis.<br>📫 How to reach me: +919462795325 or agar.pulkit25@gmail.com<br>👨‍💻 All of my projects are available in my portfolio.<br>📄 Know about my experience:[My Resume](https://drive.google.com/file/d/1O5VfyZHJbNwG_ojo6fU1ZCq_TBZXykqS/view)<br><br>
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=pulkitagar25&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pulkitagar25&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pulkitagar25&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pulkitagar25&limit=5&theme=dark&combine_all_yearly_contributions=true)
