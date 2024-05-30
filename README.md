@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I am a "Data Analyst" Fresher.<br>⭐ Passionate About "Data science and analysis".<br>🔭 I’m currently working on Portfolio Projects.<br>🌱 I’m currently learning MLops.<br>💬 Ask me about SQL, PowerBi, Dashboard, and Analysis.<br>📫 How to reach me: +919462795325 or agar.pulkit25@gmail.com<br>👨‍💻 All of my projects are available in my portfolio.<br>📄 Know about my experience:[My Resume](https://drive.google.com/file/d/1O5VfyZHJbNwG_ojo6fU1ZCq_TBZXykqS/view)<br><br>
+😎 I am a "Data Analyst" Fresher.<br>⭐ Passionate About "Data science and analysis".<br>🔭 I’m currently working on Portfolio Projects.<br>🌱 I’m currently learning MLops.<br>💬 Ask me about SQL, PowerBi, Dashboard, and Analysis.<br>📫 How to reach me: +919462795325 or agar.pulkit25@gmail.com<br>👨‍💻 All of my projects are available in my portfolio.<br>📄 Know about my experience:[My Resume](https://drive.google.com/file/d/1uwPAm0noS8FDeYTprpLyxwiObSHcZalA/view?usp=sharing)<br><br>
 
 
 ## 🌐 Socials:
